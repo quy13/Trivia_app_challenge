@@ -1,5 +1,6 @@
 # Trivia_app_challenge
 là phiên bản cải tiến của Trivia app và thêm những chức năng mới từ challenge như :
+
 -chức năng Hiển Thị Điểm :
 
 mỗi khi sai hay đúng thì sẽ cộng và trừ điểm hiện tại(Current Score) sau đó đi tới câu hỏi tiếp theo với checkAnswer()
